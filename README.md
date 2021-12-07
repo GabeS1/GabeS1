@@ -6,4 +6,4 @@
     * [Fizzbuzz coding assignment](fizzbuzz.html)
     * [Picture from my graphic design class](https://github.com/GabeS1/GabeS1/blob/main/GabeSisk3bAsset%201.png)
     * [little bit about myself](https://github.com/GabeS1/GabeS1/blob/main/aboutmyself.md)
-    
+    * [Here is my IT 1600 Final Project](https://github.com/GabeS1/GabeS1/blob/main/1600Tutorial.md)
